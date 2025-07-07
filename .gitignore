@@ -212,4 +212,11 @@ Anaconda3-*.sh
 # Optuna or TensorBoard logs
 logs/
 
+<<<<<<< HEAD
 *.sh
+=======
+*.shmlruns/
+*.sh
+>>>>>>> ed73027 (Clean repo without large files)
+02-experiment-tracking/mlruns/
+02-experiment-tracking/mlflow.db
